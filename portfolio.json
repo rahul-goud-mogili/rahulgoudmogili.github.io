@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Who's Home",
+    "category": "Smart Home",
+    "role": "Product leadership",
+    "market": "United Kingdom",
+    "status": "Launched",
+    "description": "End-to-end product strategy, discovery, roadmap, commercial planning, vendor coordination, delivery, launch and post-launch evolution.",
+    "source": "https://www.vodafone.co.uk/newscentre/press-release/whos-home-peace-of-mind-powered-by-vodafone/"
+  },
+  {
+    "title": "International eSIM rollout",
+    "category": "Connectivity",
+    "role": "Product integration",
+    "market": "Europe · 15+ markets",
+    "status": "Launched",
+    "description": "Led and coordinated market-facing eSIM integrations, dependencies and cross-functional delivery; multiple market implementations.",
+    "source": "https://www.vodafone.co.uk/newscentre/news/esim-support-comes-to-vodafone-uk-smartphones/"
+  },
+  {
+    "title": "Samsung eSIM Transfer",
+    "category": "Connectivity",
+    "role": "Technical product ownership",
+    "market": "Germany",
+    "status": "Launched",
+    "description": "Led an agile team developing and integrating APIs across partner backend and consumer systems.",
+    "source": "https://unternehmen.vodafone.de/newsroom/digitales-leben/neues-esim-uebertragungsverfahren-nun-auch-auf-samsung-smartphones"
+  },
+  {
+    "title": "Storytel × VodafoneZiggo",
+    "category": "Partnerships",
+    "role": "Technical product ownership",
+    "market": "Netherlands",
+    "status": "Launched",
+    "description": "Led agile API integration across partner backend and Vodafone consumer systems for the entertainment proposition.",
+    "source": "https://www.storytelgroup.com/en/storytel-enters-a-partnership-with-dutch-telco-vodafoneziggo/"
+  },
+  {
+    "title": "APIX Enterprise API Platform",
+    "category": "Enterprise platforms",
+    "role": "Technical product ownership",
+    "market": "International",
+    "status": "Platform delivery",
+    "description": "Technical product ownership and integration leadership in a platform ecosystem of 400+ APIs, ~5B annual requests and ~200 connected systems. These figures describe the wider platform.",
+    "source": ""
+  },
+  {
+    "title": "OneNumber Multi-Device",
+    "category": "Connected experiences",
+    "role": "Product integration",
+    "market": "Germany · UK",
+    "status": "Launched",
+    "description": "Supported multi-device service integration, validation and cross-system delivery.",
+    "source": "https://unternehmen.vodafone.de/newsroom/digitales-leben/onenumber-eine-rufnummer-fuer-mehrere-geraete"
+  },
+  {
+    "title": "OneNumber Car / BMW 5G",
+    "category": "Connected experiences",
+    "role": "Product integration",
+    "market": "Germany",
+    "status": "Launched",
+    "description": "Connected-mobility product integration experience associated with Vodafone OneNumber and vehicle connectivity.",
+    "source": "https://unternehmen.vodafone.de/newsroom/digitales-leben/bmw-group-vodafone-bringen-5g-und-personal-esim-vernetzung-ins-auto"
+  },
+  {
+    "title": "Alexa Hands-Free Calling",
+    "category": "Connected experiences",
+    "role": "QA & integration leadership",
+    "market": "UK · Germany",
+    "status": "Launched",
+    "description": "Managed automated API testing and quality assurance for Vodafone UK Alexa integration.",
+    "source": "https://www.vodafone.co.uk/newscentre/press-release/global-first-vodafone-amazon-hands-free-mobile-calling-alexa/"
+  },
+  {
+    "title": "Vodafone Automotive IoT",
+    "category": "Connected experiences",
+    "role": "QA leadership",
+    "market": "International",
+    "status": "Delivered",
+    "description": "Managed automation testing and QA for APIs consumed by connected-vehicle systems and applications.",
+    "source": "https://automotive.vodafone.com/"
+  },
+  {
+    "title": "RCS A2P Business Messaging",
+    "category": "Enterprise platforms",
+    "role": "QA leadership",
+    "market": "International",
+    "status": "Launched",
+    "description": "Managed API automation testing and quality assurance supporting rich business messaging systems.",
+    "source": "https://www.vodafone.com/news/newsroom/technology/next-generation-rcs-a2p-business-messaging"
+  },
+  {
+    "title": "Apple Watch OneNumber eSIM",
+    "category": "Connectivity",
+    "role": "Associated launch",
+    "market": "Netherlands",
+    "status": "Launched",
+    "description": "Linked to technical product ownership period; individual launch contribution requires further confirmation.",
+    "source": "https://www.vodafoneziggo.nl/en/nieuws/vodafone-offers-esim-support-for-apple-watches/"
+  },
+  {
+    "title": "Vodacom eSIM",
+    "category": "Connectivity",
+    "role": "Associated launch",
+    "market": "South Africa",
+    "status": "Launched",
+    "description": "Public market rollout associated with the portfolio; individual contribution not yet independently documented.",
+    "source": "https://www.vodafone.com/news/newsroom/planet/vodafone-launches-esim-support-benefit-customers-reduce-carbon-emissions"
+  },
+  {
+    "title": "Tablet & Notebook Mobile Plans",
+    "category": "Connectivity",
+    "role": "Associated launch",
+    "market": "Germany",
+    "status": "Launched",
+    "description": "Digital subscription and connectivity proposition associated with the product ownership period.",
+    "source": "https://unternehmen.vodafone.de/newsroom/digitales-leben/mobilfunktarife-fuer-tablet-und-notebook-jetzt-noch-einfacher-buchbar"
+  },
+  {
+    "title": "Vodafone Red Tariffs",
+    "category": "Commercial products",
+    "role": "Associated launch",
+    "market": "Germany",
+    "status": "Launched",
+    "description": "Commercial tariff proposition associated with integration delivery period; precise personal contribution to be confirmed.",
+    "source": "https://unternehmen.vodafone.de/newsroom/digitales-leben/vodafone-red-mobilfunk-tarife-jetzt-noch-attraktiver"
+  },
+  {
+    "title": "Vodafone Cyber Protection",
+    "category": "Digital trust",
+    "role": "Associated launch",
+    "market": "Germany",
+    "status": "Launched",
+    "description": "Consumer cybersecurity proposition linked to integration period; precise individual contribution to be confirmed.",
+    "source": "https://unternehmen.vodafone.de/newsroom/digitales-leben/vodafone-bietet-neues-schutzpaket-gegen-cyberkriminalitaet"
+  },
+  {
+    "title": "du Special Number",
+    "category": "Commercial products",
+    "role": "QA / engineering",
+    "market": "Dubai",
+    "status": "Launched",
+    "description": "Telecommunications service experience during TCS engagement; exact product-specific contribution to confirm.",
+    "source": "https://www.du.ae/about/media-centre/newsdetail/2015/08/22/du-special-number-offer"
+  },
+  {
+    "title": "Safer Internet Initiative",
+    "category": "Digital trust",
+    "role": "Associated initiative",
+    "market": "Germany",
+    "status": "Public initiative",
+    "description": "Public Vodafone online-safety initiative linked to QA period; direct contribution not yet documented.",
+    "source": ""
+  },
+  {
+    "title": "Vodafone Christmas Propositions",
+    "category": "Commercial products",
+    "role": "Associated launch",
+    "market": "Germany",
+    "status": "Launched",
+    "description": "Seasonal commercial offerings linked to integration period; direct contribution to be confirmed.",
+    "source": ""
+  },
+  {
+    "title": "Connected-home innovation",
+    "category": "Innovation",
+    "role": "Confidential product leadership",
+    "market": "Not disclosed",
+    "status": "Pre-launch · confidential",
+    "description": "Led discovery, prioritization, cross-functional development, experimentation, validation and readiness activities for emerging connected-home capabilities. Product-specific information intentionally withheld.",
+    "source": ""
+  }
+]
